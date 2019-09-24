@@ -1,4 +1,4 @@
-# Django-Dockerized-Template
+# Django-DRF-Dockerized-Template
 
 Add Travis-CI build link here
 
