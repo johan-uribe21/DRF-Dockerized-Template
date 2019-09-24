@@ -4,9 +4,9 @@ Add Travis-CI build link here
 
 ## Setup
 
-Step 1: In root directory of this project, run `docker build .'
+Step 1: In root directory of this project, run `docker build .`
 
-Step 2: In same directory, run `docker-compose build'
+Step 2: In same directory, run `docker-compose build`
 
 ## Django Commands
 
