@@ -4,11 +4,13 @@ Add Travis-CI build link here
 
 ## Setup
 
-#### Step 1: In root directory of this project, run `docker build .'
+Step 1: In root directory of this project, run `docker build .'
 
-#### Step 2: In same directory, run `docker-compose build'
+Step 2: In same directory, run `docker-compose build'
 
-## Once docker and docker-compose are setup, all other django commands can be run as follows:
+## Django Commands
+
+Once docker and docker-compose are setup, all other django commands can be run as follows:
 
 ```
 docker-compose run app sh -c "python manage.py test"
